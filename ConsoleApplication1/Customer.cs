@@ -10,7 +10,7 @@ namespace ConsoleApplication1
     {
         public static void Say()
         {
-            Console.WriteLine("你好");
+            Console.WriteLine("成功与借口不会住在同一个屋檐下!ss");
         }
 
     }
